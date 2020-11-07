@@ -1,9 +1,9 @@
 # Schulich-Engineering-Competition
 Team Members:
 
-Hiten Mahalwar
+Luke Son
 
 Carter Drewes
 
-Luke Son
+Hiten Mahalwar
 
